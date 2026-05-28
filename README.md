@@ -2,7 +2,7 @@
 - 👀 I’m an artist of many mediums
 - 🌱 Designing Digital Divinity
 - 💞️ On Algorand Blockchain
-- 📫 Www.extrafoxnft.com
+- 📫 (https://www.crsd.shop/)
 
 <!---
 ExtraFoxnft/ExtraFoxnft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
